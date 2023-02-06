@@ -1,0 +1,41 @@
+Driver safe  driving score prediction
+
+
+
+
+
+Automated payroll system with GPS tracking and image capture
+This automated payroll system doubles up as a web and Android application – while the user will use the Android interface, the Admin (usually the HR) will use the web interface. 
+
+The application works something like this – each employee is given an employee ID and password for accessing the app from their Android device. When an employee logs into the system from an Android device and immediately, the user image is captured. Then, the system sends the user image and their GPS location to the Admin.
+
+As long as the user stays logged into the system via an Android device, the GPS location will continue to be automatically updated and forwarded to the Admin every five minutes. When the user logs out, their image and GPS location are again sent to the Admin. 
+
+This application allows Admins to keep track of employee attendance and payroll. The Admin creates employee profiles for each employee by entering all the relevant personal information (name, job position, qualification, etc.). They can also check the salary details and breakdown of the salary of each employee by entering the employee ID and date.
+
+Since the application is GPS-enabled, no employee can add proxy attendance. This enables the HRs to keep an accurate record of working days of individual employees and tweak their payroll accordingly. 
+
+
+
+
+
+
+
+Sentiment analysis for product rating
+This project aims to develop a sentiment analysis system for product rating. It is an e-commerce web application. The main goal of this sentiment analysis system is to understand the hidden sentiments of customers in feedback and comments and analyze their product rating patterns. 
+
+When registered customers use this app to view products, product features, and comment on different products, the sentiment analysis system will analyze the comments of various users and ranks products accordingly. The system leverages a database of sentiment-based keywords (including positivity or negativity weight).
+
+So, when a user comments on a particular product, the sentiment analysis system analyzes the keywords in the comment to find the match with the keywords stored in the database. After analyzing the matches against the positive and negative keywords and sentiments, the system ranks a product as good, bad, and very bad. Thus, users can use this application to find out reviews on a product.
+
+
+
+
+
+
+House Price Prediction
+In this project we will create a machine learning model with linear regression on Boston housing dataset. This model will aid us in making better real estate decisions by making house price predictions in that area. For this we will carryout data exploration for better understanding of data and will require preprocessing to improve the model accuracy.
+
+
+
+Coding learner

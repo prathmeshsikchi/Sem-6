@@ -1,0 +1,396 @@
+R. Lavanya, Utkarsh Singh, Vibhor Tyagi; A Comprehensive Survey on Movie Recommendation Systems; 12 April 2021
+;978-1-7281-9537-7
+
+Huiyi Tan, Junfei Guo, Yong Li ;E-learning Recommendation System; 22 December 2008; 978-0-7695-3336-0
+
+Megha Sahu, Khetwat Saritha; Study on Various Collabrative Filtering Techniques to Recommend Movies; 12 August 2021; 978-1-6654-2306-9
+
+Ashish Pal, Prateek Parhi, Manuj Aggarwal; An improved content based collaborative filtering algorithm for movie recommendations; 08 February 2018; 978-1-5386-3077-8
+
+Anshika Gupta, Vinay Pant, Sudhanshu Kumar, Pravesh Kumar Bansal; Bank Loan Prediction System using Machine Learning; 04 February 2021; 978-1-7281-8908-6
+
+Anup Rokade, Akshay Malhotra, Ankita Wanchoo; Enhancing portfolio returns by identifying high growth companies in Indian stock market using artificial intelligence; 09 January 2017; 978-1-5090-0774-5
+
+Xin Li, Xianzhong Long, Guozi Sun, Geng Yang, Huakang Li; Overdue Prediction of Bank Loans Based on LSTM-SVM;  06 December 2018 ; 978-1-5386-9380-3
+
+
+
+
+
+
+Throughout the research, we have found that most movie
+recommendation systems follow a collaborative filtering
+approach rather than content based methods. It was also noted
+that hybrid recommendation systems, were preferred by most
+authors as they tend to utilize the best of both former
+approaches. 
+
+The majority of movie recommendation systems, rather than using content-based techniques, adopt a collaborative filtering strategy, according to our research. Additionally, it was shown that most authors favoured hybrid recommendation systems because they often combine the best elements of the first two methods.
+
+
+
+
+
+
+In this research paper among multiple recommendation algorithms, it
+choose the user-based collaborative filtering to generate
+recommendations, since it works well in other similar
+recommendation systems, like recommending CDs or
+movies. It use Person correlation to calculate the
+proximity between learners, and se the association rulebased recommendation for deriving the top-N
+recommendations from the neighborhood of customers.
+
+The user-based collaborative filtering method was chosen for this research paper's suggestion generation among several other algorithms because it has a good track record in other comparable recommendation systems, such as recommending CDs or movies. It uses Person correlation to determine the distance between students and uses association rule-based recommendations to get the top-N suggestions from the vicinity of the target audience.
+
+
+
+
+
+from this paper we understood that Proposal framework can be characterized into the content-based methodology, cooperative sifting approach, half and half methodology. Content-based suggestion frameworks will suggest things dependent on the depiction of things and profiles of the client. A community-oriented separating suggestion framework will suggest things dependent on comparability between clients who have appraised similar things previously.
+
+From this research, we learned that the proposal framework may be divided into three different methodologies: content-based, cooperative filtering, and half-and-half. Content-based suggestion frameworks will make suggestions based on how things are portrayed and the client profiles. A community-focused separate suggestion structure will make suggestions based on client comparability who have previously valued comparable goods.
+
+
+
+
+
+
+This paper is a novel alternative which depicts a simple
+approach to find the correlation between two features using
+set intersection in content-based filtering and finds the
+similarity between two items and predicts them for
+recommendations using CF.
+
+This study presents a novel alternative that shows a straightforward method for determining the correlation between two features utilising set intersection in content-based filtering, as well as for determining the similarity between two items and predicting them for recommendations.
+
+
+
+
+
+
+
+
+in this paper From the analysis of the data, it is very clear that it reduces
+all the frauds done at the time of loan approval.As it seems, it will not deal with some
+special cases when only one parameter is enough for
+the decision, but it is quite efficient and reliable in
+some instant.
+
+This paper demonstrates how the study of the data makes it quite evident that all fraud committed at the time a loan is approved is diminished. Although it appears that it won't handle some unusual situations when a single parameter is sufficient for the choice, it is highly effective and trustworthy in some situations.
+
+
+
+
+
+
+This paper analyzes for companies showing
+exceptionally high growth using artificial intelligence method
+clustering, K-means clustering. In this analysis, they have
+considered multiple parameters like profit growth for five
+years, profit growth for three years, quarterly profit growth,
+sales growth for five years, sales growth for three years,
+quarterly sales growth, and return on equity growth for five
+years. papers analysis shows that by using K-means clustering
+method, exceptionally high growth companies can be
+efficiently found out. 
+
+Using the artificial intelligence method of clustering, K-means clustering, this research analyses for companies demonstrating extremely high growth. In this analysis, a number of factors were taken into account, including the increase of sales over a five-year period, profit growth over a three-year period, quarterly profit growth, and return on equity growth over a five-year period. According to a paper's investigation, the K-means clustering algorithm can effectively identify organisations with extraordinarily high growth rates.
+
+
+
+
+
+In this context, this
+article puts forward the loan risk prediction within LSTMSVM model as the core of the user. This paper mainly
+introduces the main application of LSTM-SVM model in
+user loan risk prediction, and elaborates the current economic
+background, traditional risk forecasting method. On this basis,
+the prediction model based on LSTM algorithm and SVM
+algorithm is proposed, and the prediction results are compared
+with the traditional algorithm, and the feasibility of the model
+is verified
+
+The core of the user in this article is the loan risk prediction contained within the LSTMSVM model. This paper explains the primary usage of the LSTM-SVM model in predicting user loan risk and elaborates on the present economic climate and conventional risk forecasting techniques. Based on this, a prediction model using the LSTM and SVM algorithms is developed. The prediction results are compared to those of the conventional approach, and the model's viability is confirmed.
+
+
+
+
+
+
+\documentclass{beamer}
+%\mode<presentation>{\usepackage{beamerthemesplit}}
+
+
+%\usepackage{beamerthemebars}
+\usepackage{amsmath}
+\renewcommand{\baselinestretch}{1.2}
+\usepackage{cite}
+\usepackage{url}
+\usepackage{longtable}
+%\usepackage[dvips]{graphicx,color}
+%\usepackage{makeidx}
+\usepackage{nomencl}
+\usepackage{amssymb}
+%\usepackage{psfig}
+%\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage[bottom]{footmisc}
+\usepackage{subfigure}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand{\imsize}{3in}
+
+\useinnertheme{rounded}
+\usecolortheme{whale}
+%\usecolortheme{orchid}
+\useoutertheme{infolines}
+%\useoutertheme{shadow}
+
+%change your title
+\title{Financial Advising for Saving Loan interest }
+\subtitle{Topic Presentation Seminar}
+
+
+\begin{document}
+\author[]  {By \\ \vspace{0.05in} \textbf{Shital Jagtap, Prathmesh Sikchi}\\  \vspace{0.01in} {
+supervisor} \\ \textbf{Ms. Jyoti Kundale}\\
+\textcolor{black}{Department of Information Technology} \\ \textcolor{black}{Ramrao Adik Institute of Technology \\
+	D. Y. Patil Deemed to be University, Nerul, Navi Mumbai\\
+February 2023} \\
+}
+
+%%\institute[11EL2002]
+%
+\begin{frame}
+\begin{center}
+\end{center}
+\titlepage
+\end{frame}
+%
+%%Slide which includes bullated items having numerical no.
+\begin{frame}
+\frametitle{Contents}
+\begin{itemize}
+\item{Introduction}
+\item{Motivation}
+\item {Literature Review}
+\item {Problem Statement}
+\item {Objectives}
+\item {Conclusion}
+\item {References}
+\end{itemize}
+\end{frame}
+
+
+
+
+\begin{frame}
+\frametitle{Introduction}
+\begin{itemize}
+\item {The majority of people borrow money from banks, which charge interest on their loans.}
+\item {The interest we pay appears to be quite low, but when it is computed over a lengthy period of time, only the interest on the principal sum rises dramatically. }
+\item {In some circumstances, interest simply multiplies the principle amount by two to three.  }
+\item {As a loan is repaid through an EMI system, the majority of the first EMI is made up of interest only payments, with the remaining amount constantly being charged compound interest. Due to this, borrowers frequently default on loans.
+ }
+\item {Our team is creating an application that will offer a suitable way to reduce long-term excess interest rates charged by banks.
+
+}
+
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Motivation}
+We chose this theme after attending a lot of events where individuals shared the load. Stories from the villages where farmers took loans and were repaying them with their subsequent generations, it served as one of our inspirations.
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Literature Survey}
+[1] R. Lavanya, Utkarsh Singh, Vibhor Tyagi; A Comprehensive Survey on Movie Recommendation Systems; 12 April 2021
+;978-1-7281-9537-7
+
+\vspace{\baselineskip}
+The majority of movie recommendation systems, rather than using content-based techniques, adopt a collaborative filtering strategy, according to our research. Additionally, it was shown that most authors favoured hybrid recommendation systems because they often combine the best elements of the first two methods.
+\end{frame}
+
+
+
+
+
+
+\begin{frame}
+\frametitle{Literature Survey}
+[2] Huiyi Tan, Junfei Guo, Yong Li ;E-learning Recommendation System; 22 December 2008; 978-0-7695-3336-0
+
+\vspace{\baselineskip}
+The user-based collaborative filtering method was chosen for this research paper's suggestion generation among several other algorithms because it has a good track record in other comparable recommendation systems, such as recommending CDs or movies. It uses Person correlation to determine the distance between students and uses association rule-based recommendations to get the top-N suggestions from the vicinity of the target audience.
+\end{frame}
+
+
+
+
+
+\begin{frame}
+\frametitle{Literature Survey}
+
+[3]	Megha Sahu, Khetwat Saritha; Study on Various Collabrative Filtering Techniques to Recommend Movies; 12 August 2021; 978-1-6654-2306-9
+
+\vspace{\baselineskip}
+From this research, we learned that the proposal framework may be divided into three different methodologies: content-based, cooperative filtering, and half-and-half. Content-based suggestion frameworks will make suggestions based on how things are portrayed and the client profiles. A community-focused separate suggestion structure will make suggestions based on client comparability who have previously valued comparable goods.
+
+\end{frame}
+
+
+
+
+
+\begin{frame}
+\frametitle{Literature Survey}
+
+[4] Ashish Pal, Prateek Parhi, Manuj Aggarwal; An improved content based collaborative filtering algorithm for movie recommendations; 08 February 2018; 978-1-5386-3077-8
+
+\vspace{\baselineskip}
+This study presents a novel alternative that shows a straightforward method for determining the correlation between two features utilising set intersection in content-based filtering, as well as for determining the similarity between two items and predicting them for recommendations.
+\end{frame}
+
+
+
+
+
+\begin{frame}
+\frametitle{Literature Survey}
+
+[5]	Anshika Gupta, Vinay Pant, Sudhanshu Kumar, Pravesh Kumar Bansal; Bank Loan Prediction System using Machine Learning; 04 February 2021; 978-1-7281-8908-6
+
+\vspace{\baselineskip}
+This paper demonstrates how the study of the data makes it quite evident that all fraud committed at the time a loan is approved is diminished. Although it appears that it won't handle some unusual situations when a single parameter is sufficient for the choice, it is highly effective and trustworthy in some situations.
+\end{frame}
+
+
+
+
+
+\begin{frame}
+\frametitle{Literature Survey}
+
+[6] Anup Rokade, Akshay Malhotra, Ankita Wanchoo; Enhancing portfolio returns by identifying high growth companies in Indian stock market using artificial intelligence; 09 January 2017; 978-1-5090-0774-5
+
+\vspace{\baselineskip}
+Using the artificial intelligence method of clustering, K-means clustering, this research analyses for companies demonstrating extremely high growth. In this analysis, a number of factors were taken into account, including the increase of sales over a five-year period, profit growth over a three-year period, quarterly profit growth, and return on equity growth over a five-year period. According to a paper's investigation, the K-means clustering algorithm can effectively identify organisations with extraordinarily high growth rates.
+\end{frame}
+
+
+
+
+
+\begin{frame}
+\frametitle{Literature Survey}
+
+[7] Xin Li, Xianzhong Long, Guozi Sun, Geng Yang, Huakang Li; Overdue Prediction of Bank Loans Based on LSTM-SVM;  06 December 2018 ; 978-1-5386-9380-3
+
+\vspace{\baselineskip}
+The core of the user in this article is the loan risk prediction contained within the LSTMSVM model. This paper explains the primary usage of the LSTM-SVM model in predicting user loan risk and elaborates on the present economic climate and conventional risk forecasting techniques. Based on this, a prediction model using the LSTM and SVM algorithms is developed. The prediction results are compared to those of the conventional approach, and the model's viability is confirmed.
+\end{frame}
+
+
+
+% Slide - Problem Statement
+\begin{frame}
+\frametitle{Problem Statement}
+The bank assesses interest on the loaned funds. When interest is compounded over a protracted period of time, the principle amount is simply multiplied by two to three. People frequently get into the credit card trap, which carries a high interest rate and is challenging for people to escape. People waste a significant amount of money on the interest that banks charge.
+\end{frame}
+
+% Slide - Proposal Objectives
+\begin{frame}
+\frametitle{ Objectives}
+\begin{itemize}
+\item To provide a suitable remedy in order to avoid high interest
+\item To provide a means of effectively managing loans.
+\item Solution to avoid or escape the loan trap.
+\end{itemize}
+\end{frame}
+%Slide-Lit.Review -DP Law
+
+
+\begin{frame}
+\frametitle{ Conclusion}
+\begin{itemize}
+In this project, we'll create a financial counselling application that shows the customer how to cut his loan interest costs significantly. This project will also assist users in escaping or avoiding credit card interest traps and market lending traps.
+
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{References}
+
+[1] R. Lavanya, Utkarsh Singh, Vibhor Tyagi; A Comprehensive Survey on Movie Recommendation Systems; 12 April 2021
+;978-1-7281-9537-7
+\vspace{\baselineskip}
+
+
+[2]	Huiyi Tan, Junfei Guo, Yong Li ;E-learning Recommendation System; 22 December 2008; 978-0-7695-3336-0
+
+
+\vspace{\baselineskip}
+
+
+[3]	Megha Sahu, Khetwat Saritha; Study on Various Collabrative Filtering Techniques to Recommend Movies; 12 August 2021; 978-1-6654-2306-9
+
+\vspace{\baselineskip}
+
+
+[4] Ashish Pal, Prateek Parhi, Manuj Aggarwal; An improved content based collaborative filtering algorithm for movie recommendations; 08 February 2018; 978-1-5386-3077-8
+\end{frame}
+
+\begin{frame}
+\frametitle{References}
+
+
+
+[5]	Anshika Gupta, Vinay Pant, Sudhanshu Kumar, Pravesh Kumar Bansal; Bank Loan Prediction System using Machine Learning; 04 February 2021; 978-1-7281-8908-6
+
+\vspace{\baselineskip}
+[6] Anup Rokade, Akshay Malhotra, Ankita Wanchoo; Enhancing portfolio returns by identifying high growth companies in Indian stock market using artificial intelligence; 09 January 2017; 978-1-5090-0774-5
+
+\vspace{\baselineskip}
+[7] Xin Li, Xianzhong Long, Guozi Sun, Geng Yang, Huakang Li; Overdue Prediction of Bank Loans Based on LSTM-SVM;  06 December 2018 ; 978-1-5386-9380-3
+
+\end{frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
